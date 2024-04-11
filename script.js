@@ -24,3 +24,8 @@ x += "She is thin"
 
 // Counting the number of characters in a variable using .length
 var x = "You are the best boy in the world" //result is 33 characters
+
+//Printing the last letter in a string
+var name = "Happy cow";
+var x = name.length - 1
+console.log(name[x])
